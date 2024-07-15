@@ -9,25 +9,18 @@ I'm always on the lookout for the latest tech trends and love diving deep into b
 ### 🛠️ Tech Stack
 
 #### Frontend
-- **HTML** - Crafting the structure of web pages.
-- **CSS** - Designing beautiful and responsive interfaces.
-- **JavaScript** - Bringing interactivity to life.
-- **React.js** - Building dynamic and scalable web apps.
-- **Next.js** - Server-side rendering and static site generation.
-- **Vue.js** - Progressive framework for user interfaces.
+**HTML, CSS, JavaScript, React.js, Next.js, Vue.js**
 
 #### Backend
-- **Node.js** - JavaScript runtime built on Chrome's V8 engine.
-- **Express** - Fast, unopinionated, minimalist web framework for Node.js.
-- **Django** - High-level Python web framework that encourages rapid development.
+- **Express, Django**
 
 #### Tools & Others
-- **Git & GitHub** - Version control and collaboration.
+- **Git & Docker**
 
 ### 🌱 Currently Exploring
 - Learning UI Design to craft my own thoughts simpler.
 - Enhancing my skills in both frontend and backend development.
-- Building projects that people love to use.
+- Trying to get into the world of DevOps.
 
 ## 📈 GitHub Stats
 
