@@ -12,10 +12,10 @@ I'm always on the lookout for the latest tech trends and love diving deep into b
 **HTML, CSS, JavaScript, React.js, Next.js, Vue.js**
 
 #### Backend
-- **Express, Django**
+**Express, Django**
 
 #### Tools & Others
-- **Git & Docker**
+**Git, Docker**
 
 ### 🌱 Currently Exploring
 - Learning UI Design to craft my own thoughts simpler.
