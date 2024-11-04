@@ -8,7 +8,7 @@ I have been programing for 3yrs now, wandered a lot in C++, C, and the building 
 
 * 🌍  I'm based in Guntur, Andhra Pradesh
 * ✉️  You can contact me at [venkataramgopal16@gmail.com](mailto:venkataramgopal16@gmail.com)
-* 🧠  I'm learning refining my skills on containerization technologies
+* 🧠  I'm learning and refining my skills on containerization technologies
 * 🤝  I'm open to collaborating on any interesting projects that come under my skill-set (not necessarily 👀)
 * 🌟  I have a decent experience in project management and have the exposure of handling the reviewing side of PRs
 * ⚡  Talk to me about Web Dev and Automation Technologies
